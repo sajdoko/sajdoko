@@ -1,13 +1,15 @@
-# Hi 👋
+Hi 👋
 
 Thanks for checking me out.
 
-I’m a _PHP Developer_, focused mostly on _WordPress_ and _Laravel_, but I also know JavaScript and can find my way around Bash scripting. Headed on my way to Full stack 😅.
+I’m a _PHP Developer_, focused mostly on _WordPress_ and _Laravel_, but I also know JavaScript and can find my way around Bash scripting. Headed on my way to Full-stack😅.
 
-I’m currently managing the WordPress Team at [Local Web Srl](https://www.localweb.it). Initially, I helped establish the team and organize the practices within the team like setting up best practices, coding standards etc. Now, besides managing the team, I’m working on improving the workflow and delivering an overall better product.
+I’m currently managing the WordPress Team at [Local Web Srl](https://www.localweb.it); my journey has begun from the planning phase of team establishment to best practices integration such as coding standards etc.
+Currently, I’m also working on workflow improvement and product delivery optimization.
 
-I’m also working on getting my Bachelors Degree in Computer Engineering at [Canadian Institute of Technology](https://cit.edu.al/).
 
-In my spare time I like to think about outdoor activities like going fishing, in reality, I watch random videos on YouTube 😔😄.
+My favorite part of my daily routine is finding time to finish my Bachelor's studies in Computer Engineering at the [Canadian Institute of Technology](https://cit.edu.al/).
 
-I also do work on Freelance projects, if you have a project and think I can help you out, feel free to contact me.
+In my spare time, I like to think about outdoor activities like fishing, but what I really do is watch random YouTube videos 😔😄.
+
+I'm also an experienced freelancer; if you have a project and think I can help you out, feel free to contact me.
