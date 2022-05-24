@@ -11,5 +11,3 @@ Currently, I’m also working on workflow improvement and product delivery optim
 My favorite part of my daily routine is finding time to finish my Bachelor's studies in Computer Engineering at the [Canadian Institute of Technology](https://cit.edu.al/).
 
 In my spare time, I like to think about outdoor activities like fishing, but what I really do is watch random YouTube videos 😔😄.
-
-I'm also an experienced freelancer; if you have a project and think I can help you out, feel free to contact me.
