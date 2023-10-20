@@ -2,11 +2,11 @@
 
 Thanks for checking me out.
 
-I'm a _PHP Developer_ with a focus on _WordPress_ and _Laravel_, and I'm also comfortable with JavaScript and Bash scripting.
+I'm a **PHP Developer** with a focus on **WordPress** and **Laravel**, and I'm also comfortable with JavaScript and Bash scripting.
 
 I'm currently leading the WordPress Team at [Local Web Srl](https://www.localweb.it), where I'm constantly improving our workflow and delivering top-notch products to our clients.
 
-I'm also currently pursuing a Bachelor's Degree in Computer Engineering from [Canadian Institute of Technology](https://cit.edu.al/).
+I'm also currently pursuing a Master of Science Degree in Computer Engineering and Information Technology, Profile: Network and Cybersecurity from [Canadian Institute of Technology](https://cit.edu.al/).
 
 In my free time, I enjoy exploring the great outdoors (or getting lost in the endless abyss of YouTube!😅).
 
