@@ -8,7 +8,6 @@ I'm currently leading the WordPress Team at [Local Web Srl](https://www.localweb
 
 I'm also currently pursuing a Master of Science Degree in Computer Engineering and Information Technology, Profile: Network and Cybersecurity from [Canadian Institute of Technology](https://cit.edu.al/).
 
-In my free time, I enjoy exploring the great outdoors (or getting lost in the endless abyss of YouTube!😅).
 
 ## WordPress Plugins
 
