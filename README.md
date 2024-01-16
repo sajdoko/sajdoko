@@ -16,9 +16,9 @@ I'm also currently pursuing a Master of Science Degree in Computer Engineering a
 
 ## Social
 
-[![sajdoko's Linkedin Profile](https://img.shields.io/badge/-sajdoko-0072b1?style=social&logo=linkedin)](https://linkedin.com/in/sajdoko)
-[![sajdoko's Instagram Profile](https://img.shields.io/badge/-sajdoko-8a3ab9?style=social&logo=instagram)](https://instagram.com/sajdoko)
-[![sajdoko's Wordpress Profile](https://img.shields.io/badge/-sajdoko-0073aa?style=social&logo=wordpress)](https://profiles.wordpress.org/sajdoko)
+[![sajdoko's Linkedin Profile](https://img.shields.io/badge/-sajdoko-0072b1?style=social&logo=linkedin)](https://linkedin.com/in/sajmirdoko/)
+[![sajdoko's Instagram Profile](https://img.shields.io/badge/-sajdoko-8a3ab9?style=social&logo=instagram)](https://instagram.com/sajdoko/)
+[![sajdoko's Wordpress Profile](https://img.shields.io/badge/-sajdoko-0073aa?style=social&logo=wordpress)](https://profiles.wordpress.org/sajdoko/)
 
 ## GitHub Stats
 
