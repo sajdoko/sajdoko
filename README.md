@@ -2,7 +2,7 @@
 
 Thanks for checking me out.
 
-I'm a **PHP Developer** with a focus on **WordPress** and **Laravel**, and I'm also comfortable with JavaScript and Bash scripting.
+I'm a **PHP Developer** with a focus on **WordPress** and **Laravel**.
 
 I'm currently leading the WordPress Team at [Local Web Srl](https://www.localweb.it), where I'm constantly improving our workflow and delivering top-notch products to our clients.
 
