@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Sajmir Doko 👋</h1>
+<h1 align="center">Hey there, I'm Sajmir Doko</h1>
 
 <p align="center">
   <strong>PHP Developer | WordPress & Laravel Specialist | Cybersecurity Enthusiast</strong>
@@ -8,20 +8,20 @@
   <img src="https://komarev.com/ghpvc/?username=sajdoko&label=Profile%20views&color=0e75b6&style=flat" alt="sajdoko" />
 </p>
 
-## 🚀 About Me
+## About Me
 
 I'm a passionate **PHP Developer** specializing in **WordPress** and **Laravel** development. Currently, I'm leading the WordPress Team at [Local Web Srl](https://www.localweb.it), where I focus on optimizing workflows and delivering exceptional products to clients.
 
-🎓 I hold an **MSc in Computer Engineering and Information Technology**, with a specialization in **Network and Cybersecurity** from [Canadian Institute of Technology](https://cit.edu.al/).
+I hold an **MSc in Computer Engineering and Information Technology**, with a specialization in **Network and Cybersecurity** from [Canadian Institute of Technology](https://cit.edu.al/).
 
-## 💼 What I'm Currently Working On
+## What I'm Currently Working On
 
-- 🔧 Leading WordPress development projects at Local Web Srl
-- 🔒 Applying my expertise in Network Security and Cybersecurity
-- 🛠️ Maintaining and improving WordPress plugins with thousands of active installations
-- 🌱 Exploring modern PHP frameworks and best practices
+- Leading WordPress development projects at Local Web Srl
+- Applying my expertise in Network Security and Cybersecurity
+- Maintaining and improving WordPress plugins with thousands of active installations
+- Exploring modern PHP frameworks and best practices
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -42,7 +42,7 @@ I'm a passionate **PHP Developer** specializing in **WordPress** and **Laravel**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-## 🔌 WordPress Plugins
+## WordPress Plugins
 
 I actively maintain several WordPress plugins that are used by thousands of websites worldwide:
 
@@ -77,7 +77,7 @@ I actively maintain several WordPress plugins that are used by thousands of webs
   </tr>
 </table>
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/sajmirdoko/">
@@ -94,7 +94,7 @@ I actively maintain several WordPress plugins that are used by thousands of webs
   </a>
 </p>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sajdoko&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
@@ -111,9 +111,9 @@ I actively maintain several WordPress plugins that are used by thousands of webs
 ---
 
 <p align="center">
-  <i>💡 "Code is like humor. When you have to explain it, it's bad." – Cory House</i>
+  <i>"Code is like humor. When you have to explain it, it's bad." – Cory House</i>
 </p>
 
 <p align="center">
-  <i>⭐️ From <a href="https://github.com/sajdoko">sajdoko</a></i>
+  <i>From <a href="https://github.com/sajdoko">sajdoko</a></i>
 </p>
