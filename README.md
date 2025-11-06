@@ -41,65 +41,17 @@ I offer a range of professional services and products on [sajdoko.com](https://s
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=black)
+![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=laravel-livewire&logoColor=white)
+
+*I work with the TALL Stack (Tailwind CSS, Alpine.js, Laravel, Livewire)*
 
 ### Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-
-## WordPress Plugins
-
-I actively maintain several WordPress plugins that are used by thousands of websites worldwide:
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <h3>LocalWeb All In One</h3>
-      <a href="https://wordpress.org/plugins/lw-all-in-one/">
-        <img src="https://img.shields.io/wordpress/plugin/dm/lw-all-in-one?color=0073aa&label=Downloads&style=for-the-badge" alt="Downloads" />
-      </a>
-      <br />
-      <a href="https://wordpress.org/plugins/lw-all-in-one/">
-        <img src="https://img.shields.io/wordpress/plugin/v/lw-all-in-one?color=0073aa&style=for-the-badge" alt="Version" />
-      </a>
-      <a href="https://wordpress.org/plugins/lw-all-in-one/">
-        <img src="https://img.shields.io/wordpress/plugin/rating/lw-all-in-one?color=0073aa&style=for-the-badge" alt="Rating" />
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <h3>WooCommerce Additional Checkout Fees</h3>
-      <a href="https://wordpress.org/plugins/woo-additional-checkout-fees/">
-        <img src="https://img.shields.io/wordpress/plugin/dm/woo-additional-checkout-fees?color=0073aa&label=Downloads&style=for-the-badge" alt="Downloads" />
-      </a>
-      <br />
-      <a href="https://wordpress.org/plugins/woo-additional-checkout-fees/">
-        <img src="https://img.shields.io/wordpress/plugin/v/woo-additional-checkout-fees?color=0073aa&style=for-the-badge" alt="Version" />
-      </a>
-      <a href="https://wordpress.org/plugins/woo-additional-checkout-fees/">
-        <img src="https://img.shields.io/wordpress/plugin/rating/woo-additional-checkout-fees?color=0073aa&style=for-the-badge" alt="Rating" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-## Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/sajmirdoko/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/sajdoko/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://profiles.wordpress.org/sajdoko/">
-    <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
-  </a>
-  <a href="https://github.com/sajdoko">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
 
 ## GitHub Stats
 
@@ -113,14 +65,4 @@ I actively maintain several WordPress plugins that are used by thousands of webs
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajdoko&theme=transparent&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-<p align="center">
-  <i>"Code is like humor. When you have to explain it, it's bad." – Cory House</i>
-</p>
-
-<p align="center">
-  <i>From <a href="https://github.com/sajdoko">sajdoko</a></i>
 </p>
