@@ -12,12 +12,12 @@
 
 I'm a passionate **PHP Developer** specializing in **WordPress** and **Laravel** development. Currently, I'm leading the WordPress Team at [Local Web Srl](https://www.localweb.it), where I focus on optimizing workflows and delivering exceptional products to clients.
 
-🎓 I'm pursuing a **Master of Science in Computer Engineering and Information Technology** with a focus on **Network and Cybersecurity** at [Canadian Institute of Technology](https://cit.edu.al/).
+🎓 I hold an **MSc in Computer Engineering and Information Technology**, with a specialization in **Network and Cybersecurity** from [Canadian Institute of Technology](https://cit.edu.al/).
 
 ## 💼 What I'm Currently Working On
 
 - 🔧 Leading WordPress development projects at Local Web Srl
-- 📚 Advancing my knowledge in Network Security and Cybersecurity
+- 🔒 Applying my expertise in Network Security and Cybersecurity
 - 🛠️ Maintaining and improving WordPress plugins with thousands of active installations
 - 🌱 Exploring modern PHP frameworks and best practices
 
