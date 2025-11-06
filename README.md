@@ -14,12 +14,19 @@ I'm a passionate **PHP Developer** specializing in **WordPress** and **Laravel**
 
 I hold an **MSc in Computer Engineering and Information Technology**, with a specialization in **Network and Cybersecurity** from [Canadian Institute of Technology](https://cit.edu.al/).
 
-## What I'm Currently Working On
+## Freelance Services & Products
 
-- Leading WordPress development projects at Local Web Srl
-- Applying my expertise in Network Security and Cybersecurity
-- Maintaining and improving WordPress plugins with thousands of active installations
-- Exploring modern PHP frameworks and best practices
+I offer a range of professional services and products on [sajdoko.com](https://sajdoko.com/):
+
+**Products:**
+- WordPress Websites - Custom-built, responsive websites tailored to your needs
+- Web Applications - Full-stack web applications using modern frameworks
+- WordPress Plugins - Custom plugin development and modifications
+
+**Services:**
+- Website Security - Comprehensive security audits and hardening
+- SEO Services - Search engine optimization and performance improvements
+- Website Maintenance - Ongoing support, updates, and monitoring
 
 ## Tech Stack
 
