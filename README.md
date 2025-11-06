@@ -22,5 +22,5 @@ I'm also currently pursuing a Master of Science Degree in Computer Engineering a
 
 ## GitHub Stats
 
-[![sajdoko's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sajdoko&show_icons=true&theme=nord&hide_border=true&include_all_commits=true&count_private=true&card_width=150)](https://github.com/sajdoko)
-[![sajdoko's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sajdoko&layout=compact&langs_count=8&theme=nord&hide_border=true&card_width=150)](https://github.com/sajdoko)
+[![sajdoko's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sajdoko&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&card_width=150)](https://github.com/sajdoko)
+[![sajdoko's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sajdoko&layout=compact&langs_count=8&theme=transparent&hide_border=true&card_width=150)](https://github.com/sajdoko)
