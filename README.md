@@ -8,21 +8,7 @@
 
 I'm a passionate **PHP Developer** specializing in **WordPress** and **Laravel** development. Currently, I'm leading the WordPress Team at [Local Web Srl](https://www.localweb.it), where I focus on optimizing workflows and delivering exceptional products to clients.
 
-I hold an **MSc in Computer Engineering and Information Technology**, with a specialization in **Network and Cybersecurity** from [Canadian Institute of Technology](https://cit.edu.al/).
-
-## Freelance Services & Products
-
-I offer a range of professional services and products on [sajdoko.com](https://sajdoko.com/):
-
-**Products:**
-- WordPress Websites - Custom-built, responsive websites tailored to your needs
-- Web Applications - Full-stack web applications using modern frameworks
-- WordPress Plugins - Custom plugin development and modifications
-
-**Services:**
-- Website Security - Comprehensive security audits and hardening
-- SEO Services - Search engine optimization and performance improvements
-- Website Maintenance - Ongoing support, updates, and monitoring
+Beyond my full-time role, I run a freelance practice through [sajdoko.com](https://sajdoko.com/), where I help businesses and individuals bring their digital visions to life. I offer custom-built **WordPress websites**, full-stack **web applications** using modern frameworks, and specialized **WordPress plugin** development. I'm also passionate about **website security**, providing comprehensive security audits and hardening services, along with **SEO optimization** and ongoing **website maintenance** to ensure your digital presence stays secure, fast, and effective.
 
 ## Tech Stack
 
